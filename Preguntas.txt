@@ -1,0 +1,100 @@
+1,¿Cuál es el país más grande del mundo por superficie?,China,Estados Unidos,Canadá,Rusia
+2,¿Quién pintó "La última cena"?,Miguel Ángel,Rafael,Van Gogh,Leonardo da Vinci
+3,¿Qué planeta es conocido como el planeta rojo?,Venus,Júpiter,Saturno,Marte
+4,¿En qué año llegó Cristóbal Colón a América?,1495,1501,1488,1492
+5,¿Cuál es la capital de Australia?,Sídney,Melbourne,Brisbane,Canberra
+6,¿Qué elemento tiene el símbolo químico 'O'?,Oro,Oxalato,Osmio,Oxígeno
+7,¿Qué escritor escribió “Cien años de soledad”?,Mario Vargas Llosa,Pablo Neruda,Isabel Allende,Gabriel García Márquez
+8,¿Cuál es el océano más grande del mundo?,Atlántico,Índico,Ártico,Pacífico
+9,¿Qué instrumento tiene teclas, pedales y cuerdas?,Violín,Guitarra,Flauta,Piano
+10,¿Qué país es conocido por el tango?,Brasil,México,España,Argentina
+11,¿Cuál es la capital de Japón?,Kioto,Osaka,Hiroshima,Tokio
+12,¿Qué órgano del cuerpo humano bombea sangre?,Pulmón,Estómago,Hígado,Corazón
+13,¿Qué civilización construyó las pirámides de Egipto?,Griega,Romana,Azteca,Egipcia
+14,¿Cuál es el idioma más hablado del mundo?,Inglés,Hindi,Árabe,Chino mandarín
+15,¿Quién escribió "Don Quijote de la Mancha"?,Lope de Vega,Federico García Lorca,Gustavo Adolfo Bécquer,Miguel de Cervantes
+16,¿Qué gas respiramos para vivir?,Dióxido de carbono,Helio,Nitrógeno,Oxígeno
+17,¿Cuál es el número pi con dos decimales?,3.41,3.25,3.55,3.14
+18,¿Qué continente está Egipto?,Asia,Europa,Oceanía,África
+19,¿En qué país se encuentra la Torre Eiffel?,Alemania,Italia,Inglaterra,Francia
+20,¿Qué día se celebra la independencia de Estados Unidos?,1 de mayo,25 de diciembre,31 de octubre,4 de julio
+21,¿Cuál es el río más largo del mundo?,Amazonas,Yangtsé,Misisipi,Nilo
+22,¿Qué tipo de animal es la ballena?,Pez,Reptil,Anfibio,Mamífero
+23,¿En qué país nació el científico Albert Einstein?,Estados Unidos,Austria,Francia,Alemania
+24,¿Cuál es el metal más ligero?,Oro,Plata,Plomo,Litio
+25,¿Qué país tiene forma de bota?,Chile,Francia,Grecia,Italia
+26,¿En qué año comenzó la Segunda Guerra Mundial?,1945,1930,1929,1939
+27,¿Cuál es el símbolo químico del oro?,Ag,Go,Or,Au
+28,¿Cuál es la capital de Canadá?,Toronto,Montreal,Vancouver,Ottawa
+29,¿Qué autor escribió “Romeo y Julieta”?,Charles Dickens,Oscar Wilde,Jane Austen,William Shakespeare
+30,¿Qué instrumento mide los terremotos?,Termómetro,Barómetro,Anemómetro,Sismógrafo
+31,¿Qué planeta tiene un sistema de anillos?,Marte,Tierra,Mercurio,Saturno
+32,¿Cuál es el animal terrestre más rápido del mundo?,León,Antílope,Tigre,Guepardo
+33,¿Qué artista pintó "La Noche Estrellada"?,Monet,Picasso,Dalí,Van Gogh
+34,¿Qué país inventó el papel?,Japón,India,Grecia,China
+35,¿Cuál es la capital de Perú?,Arequipa,Cusco,Trujillo,Lima
+36,¿Qué parte del cuerpo humano produce la insulina?,Hígado,Riñón,Estómago,Páncreas
+37,¿Quién escribió “El Principito”?,J.K. Rowling,Gabriel García Márquez,Julio Verne,Antoine de Saint-Exupéry
+38,¿Cuál es el principal gas de efecto invernadero?,Oxígeno,Nitrógeno,Hidrógeno,Dióxido de carbono
+39,¿En qué país se encuentra el desierto del Sahara?,Arabia Saudita,Irán,Argentina,Egipto
+40,¿Cuál es el animal nacional de Australia?,Koala,Emú,Dingo,Canguro
+41,¿Qué órgano se encarga de filtrar la sangre?,Corazón,Estómago,Pulmón,Riñón
+42,¿Qué país tiene más habitantes?,Estados Unidos,Rusia,Indonesia,China
+43,¿Qué científico formuló la teoría de la evolución?,Newton,Einstein,Galileo,Charles Darwin
+44,¿Cuál es la moneda oficial de Japón?,Won,Yuan,Dólar,Yen
+45,¿Quién pintó la Capilla Sixtina?,Da Vinci,Caravaggio,Donatello,Miguel Ángel
+46,¿Qué idioma se habla en Brasil?,Español,Inglés,Italiano,Portugués
+47,¿En qué país se originaron los Juegos Olímpicos?,Italia,Egipto,China,Grecia
+48,¿Cuál es el continente más pequeño?,Europa,América del Sur,África,Oceanía
+49,¿Cuál es la capital de Noruega?,Helsinki,Estocolmo,Copenhague,Oslo
+50,¿Qué animal es símbolo de sabiduría?,Gato,Zorro,Cuervo,Búho
+51,¿Qué país tiene la mayor cantidad de volcanes activos?,Japón,México,Rusia,Indonesia
+52,¿Cuál es el número atómico del hidrógeno?,2,8,10,1
+53,¿Cuál es la capital de Sudáfrica?,Durban,Johannesburgo,Pretores,Ciudad del Cabo
+54,¿Qué gas es más abundante en la atmósfera terrestre?,Oxígeno,Dióxido de carbono,Hidrógeno,Nitrógeno
+55,¿Qué país ganó el Mundial de Fútbol en 2018?,Alemania,Brasil,Argentina,Francia
+56,¿Qué órgano del cuerpo humano consume más oxígeno?,Hígado,Pulmones,Corazón,Cerebro
+57,¿Cuál es el país más poblado de África?,Egipto,Etiopía,Sudáfrica,Nigeria
+58,¿Qué ciudad es conocida como "La ciudad eterna"?,París,Atenas,Estambul,Roma
+59,¿Qué instrumento se asocia con Beethoven?,Violín,Guitarra,Flauta,Piano
+60,¿Cuál es la capital de Tailandia?,Phuket,Chiang Mai,Pattaya,Bangkok
+61,¿Qué continente no tiene desiertos?,Asia,América,Oceanía,Europa
+62,¿Qué país tiene más premios Nobel de la Paz?,Alemania,China,Francia,Estados Unidos
+63,¿Qué país tiene el mayor número de islas?,Indonesia,Japón,Filipinas,Suecia
+64,¿Qué parte de la planta absorbe agua y minerales?,Tallo,Hoja,Flor,Raíz
+65,¿Quién descubrió América?,Marco Polo,Vasco da Gama,Hernán Cortés,Cristóbal Colón
+66,¿Qué letra representa 50 en números romanos?,C,D,X,L
+67,¿Qué filósofo fue maestro de Alejandro Magno?,Platón,Sócrates,Pitágoras,Aristóteles
+68,¿Cuál es la ciudad más poblada del mundo?,Nueva York,Pekín,Delhi,Tokio
+69,¿Qué órgano produce bilis?,Páncreas,Estómago,Riñón,Hígado
+70,¿Qué científico formuló las leyes del movimiento?,Kepler,Galileo,Einstein,Isaac Newton
+71,¿Cuál es el ave más grande del mundo?,Cóndor,Águila,Pelícano,Avestruz
+72,¿Cuál es el continente más frío?,Europa,Asia,América del Norte,Antártida
+73,¿Cuál es el libro más vendido de la historia?,El Quijote,Harry Potter,El Señor de los Anillos,La Biblia
+74,¿En qué país está el Taj Mahal?,Irán,Arabia Saudita,Nepal,India
+75,¿Qué animal es símbolo de China?,Tigre,Grulla,Dragón,Panda
+76,¿Qué país tiene el Everest?,India,China,Bután,Nepal
+77,¿Cuál es la ciudad del Coliseo?,Atenas,Nápoles,Florencia,Roma
+78,¿Qué es un haiku?,Una pintura japonesa,Un plato típico,Un tipo de origami,Un poema japonés
+79,¿Qué país inventó la pólvora?,India,Grecia,Egipto,China
+80,¿Cuál es el principal idioma de Suiza?,Italiano,Inglés,Español,Alemán
+81,¿Qué planeta tiene la gravedad más fuerte?,Marte,Urano,Tierra,Júpiter
+82,¿Quién escribió “1984”?,Aldous Huxley,Ray Bradbury,J.R.R. Tolkien,George Orwell
+83,¿Qué país está entre Francia y Alemania?,España,Italia,Bélgica,Luxemburgo
+84,¿Cuál es el metal más caro del mundo?,Oro,Plata,Cobre,Rodio
+85,¿Qué país tiene más tiempo sin ejército?,Islandia,Canadá,Irlanda,Costa Rica
+86,¿Quién pintó “Guernica”?,Dalí,Monet,Van Gogh,Pablo Picasso
+87,¿Qué país tiene el mayor consumo de chocolate?,Alemania,Bélgica,Estados Unidos,Suecia
+88,¿Qué parte del cuerpo tiene más huesos?,Cráneo,Tórax,Columna,Mano
+89,¿Qué continente tiene más países?,Europa,Asia,América,África
+90,¿Cuál es la capital de Islandia?,Oslo,Estocolmo,Copenhague,Reikiavik
+91,¿Qué animal pone huevos pero no vuela?,Murciélago,Gallina,Gaviota,Avestruz
+92,¿Qué país tiene la bandera con una hoja de arce?,Estados Unidos,Reino Unido,Australia,Canadá
+93,¿Qué deporte se practica en Wimbledon?,Fútbol,Golf,Cricket,Tenis
+94,¿Qué emperador romano se cree que tocaba la lira mientras Roma ardía?,César,Augusto,Calígula,Nerón
+95,¿Qué parte del cuerpo controla el equilibrio?,Corazón,Ojos,Pulmones,Oído interno
+96,¿Cuál es el idioma más antiguo que aún se habla?,Latín,Egipcio antiguo,Celta,Hebreo
+97,¿Cuál es la capital de Corea del Sur?,Shanghái,Pyongyang,Busan,Seúl
+98,¿Qué país está al sur de Estados Unidos?,Alemania,Costa Rica,Japon,México
+99,¿Qué sustancia da color a la piel humana?,Colágeno,Adrenalina,Queratina,Melanina
+100,¿En qué año se firmó la Declaración de Independencia de Estados Unidos?,1789,1804,1775,1776
